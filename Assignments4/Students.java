@@ -1,4 +1,10 @@
 package week3.day1.Assignments4;
+/*class : students
+methods : getstudentinfo()
+
+description:
+create multiple getstudentinfo() ,method by passing id argument alone, by id name,by email & phone number.
+*/
 
 public class Students {
 	public void getstudentinfo(int id) {
