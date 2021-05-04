@@ -1,4 +1,26 @@
 package week3.day2.Assignments7;
+/* assignment 7(polimorphism):
+create the class calculator with below methods,
+two methods for add.
+       1.one method with 2 int arguments 
+       2.another one method with 3 int argms.
+
+two methods for multiply.
+       1.one method with 2 int arguments 
+       2.another one method with 1 int & 1 double argms.
+
+two methods for subtract.
+       1.one method with 2 int arguments 
+       2.another one method with 2 double argms.
+       
+two methods for divide.
+       1.one method with 2 int arguments 
+       2.another one method with 1 double, 1 int argms.       
+
+description:
+create object for the calculator class and execute all the methods.
+*/
+
 
 public class Calculator {
 	public void add(int num1, int num2) {
